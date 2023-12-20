@@ -1,0 +1,245 @@
+2.6.2
+2.6.0
+Num GPUs Available: 2
+Training for V cycle: 1
+[8, 4]
+[80, 80]
+Cumulative time used till V cycle 1 : 143.40158486366272
+Training for V cycle: 2
+[8, 4]
+[80, 80]
+Cumulative time used till V cycle 2 : 277.9133183956146
+Training for V cycle: 3
+[8, 4]
+[80, 80]
+Cumulative time used till V cycle 3 : 425.5284559726715
+Training for V cycle: 4
+[8, 4]
+[80, 80]
+Cumulative time used till V cycle 4 : 560.9235665798187
+Training for V cycle: 5
+[8, 4]
+[80, 80]
+Cumulative time used till V cycle 5 : 695.9825873374939
+Training for V cycle: 6
+[8, 4]
+[80, 80]
+Cumulative time used till V cycle 6 : 842.8694460391998
+Training for V cycle: 7
+[8, 4]
+[80, 80]
+Cumulative time used till V cycle 7 : 995.1805551052094
+Training for V cycle: 8
+[8, 4]
+[80, 80]
+Cumulative time used till V cycle 8 : 1149.3780868053436
+Training for V cycle: 9
+[8, 4]
+[80, 80]
+Cumulative time used till V cycle 9 : 1321.4757313728333
+Training for V cycle: 10
+[8, 4]
+[80, 80]
+Cumulative time used till V cycle 10 : 1478.0214674472809
+Training for V cycle: 11
+[8, 4]
+[80, 80]
+Cumulative time used till V cycle 11 : 1640.1971037387848
+Training for V cycle: 12
+[8]
+[80]
+Cumulative time used till V cycle 12 : 1743.1838991641998
+Training for V cycle: 13
+[8]
+[80]
+Cumulative time used till V cycle 13 : 1832.5974597930908
+Training for V cycle: 14
+[16, 8, 4]
+[80, 80, 80]
+Cumulative time used till V cycle 14 : 2095.7522687911987
+Training for V cycle: 15
+[16, 8, 4]
+[80, 80, 80]
+Cumulative time used till V cycle 15 : 2375.1047344207764
+Training for V cycle: 16
+[16, 8, 4]
+[80, 80, 80]
+Cumulative time used till V cycle 16 : 2646.294960975647
+Training for V cycle: 17
+[16, 8, 4]
+[80, 80, 80]
+Cumulative time used till V cycle 17 : 2925.6043906211853
+Training for V cycle: 18
+[16, 8, 4]
+[80, 80, 80]
+Cumulative time used till V cycle 18 : 3183.4425699710846
+Training for V cycle: 19
+[16, 8, 4]
+[80, 80, 80]
+Cumulative time used till V cycle 19 : 3463.915786266327
+Training for V cycle: 20
+[16, 8, 4]
+[80, 80, 80]
+Cumulative time used till V cycle 20 : 3741.840278148651
+Training for V cycle: 21
+[16, 8, 4]
+[80, 80, 80]
+Cumulative time used till V cycle 21 : 4002.9124920368195
+Training for V cycle: 22
+[16, 8, 4]
+[80, 80, 80]
+Cumulative time used till V cycle 22 : 4271.069060564041
+Training for V cycle: 23
+[16, 8, 4]
+[80, 80, 80]
+Cumulative time used till V cycle 23 : 4531.711808681488
+Training for V cycle: 24
+[16, 8, 4]
+[80, 80, 80]
+Cumulative time used till V cycle 24 : 4804.849534511566
+Training for V cycle: 25
+[16]
+[80]
+Cumulative time used till V cycle 25 : 4910.658166885376
+Training for V cycle: 26
+[16]
+[80]
+Cumulative time used till V cycle 26 : 5013.500781059265
+Training for V cycle: 27
+[32, 16, 8, 4]
+[80, 80, 80, 80]
+Cumulative time used till V cycle 27 : 5423.934760808945
+Training for V cycle: 28
+[32, 16, 8, 4]
+[80, 80, 80, 80]
+Cumulative time used till V cycle 28 : 5833.688977956772
+Training for V cycle: 29
+[32, 16, 8, 4]
+[80, 80, 80, 80]
+Cumulative time used till V cycle 29 : 6238.05012845993
+Training for V cycle: 30
+[32, 16, 8, 4]
+[80, 80, 80, 80]
+Cumulative time used till V cycle 30 : 6656.419144153595
+Training for V cycle: 31
+[32, 16, 8, 4]
+[80, 80, 80, 80]
+Cumulative time used till V cycle 31 : 7075.032052516937
+Training for V cycle: 32
+[32, 16, 8, 4]
+[80, 80, 80, 80]
+Cumulative time used till V cycle 32 : 7484.113477945328
+Training for V cycle: 33
+[32, 16, 8, 4]
+[80, 80, 80, 80]
+Cumulative time used till V cycle 33 : 7884.9821581840515
+Training for V cycle: 34
+[32, 16, 8, 4]
+[80, 80, 80, 80]
+Cumulative time used till V cycle 34 : 8302.402752637863
+Training for V cycle: 35
+[32, 16, 8, 4]
+[80, 80, 80, 80]
+Cumulative time used till V cycle 35 : 8717.168608903885
+Training for V cycle: 36
+[32, 16, 8, 4]
+[80, 80, 80, 80]
+Cumulative time used till V cycle 36 : 9131.757993221283
+Training for V cycle: 37
+[32, 16, 8, 4]
+[80, 80, 80, 80]
+Cumulative time used till V cycle 37 : 9535.14231300354
+Training for V cycle: 38
+[32]
+[80]
+Cumulative time used till V cycle 38 : 9692.647329568863
+Training for V cycle: 39
+[32]
+[80]
+Cumulative time used till V cycle 39 : 9830.937210559845
+Training for V cycle: 40
+[64, 32, 16, 8, 4]
+[80, 80, 80, 80, 80]
+Cumulative time used till V cycle 40 : 10482.503459215164
+Training for V cycle: 41
+[64, 32, 16, 8, 4]
+[80, 80, 80, 80, 80]
+Cumulative time used till V cycle 41 : 11155.667921066284
+Training for V cycle: 42
+[64, 32, 16, 8, 4]
+[80, 80, 80, 80, 80]
+Cumulative time used till V cycle 42 : 11825.656670093536
+Training for V cycle: 43
+[64, 32, 16, 8, 4]
+[80, 80, 80, 80, 80]
+Cumulative time used till V cycle 43 : 12496.415501594543
+Training for V cycle: 44
+[64, 32, 16, 8, 4]
+[80, 80, 80, 80, 80]
+Cumulative time used till V cycle 44 : 13166.883876562119
+Training for V cycle: 45
+[64, 32, 16, 8, 4]
+[80, 80, 80, 80, 80]
+Cumulative time used till V cycle 45 : 13890.16445016861
+Training for V cycle: 46
+[64, 32, 16, 8, 4]
+[80, 80, 80, 80, 80]
+Cumulative time used till V cycle 46 : 14600.099906921387
+Training for V cycle: 47
+[64, 32, 16, 8, 4]
+[80, 80, 80, 80, 80]
+Cumulative time used till V cycle 47 : 15283.167789697647
+Training for V cycle: 48
+[64, 32, 16, 8, 4]
+[80, 80, 80, 80, 80]
+Cumulative time used till V cycle 48 : 15959.669571638107
+Training for V cycle: 49
+[64, 32, 16, 8, 4]
+[80, 80, 80, 80, 80]
+Cumulative time used till V cycle 49 : 16634.28245329857
+Training for V cycle: 50
+[64, 32, 16, 8, 4]
+[80, 80, 80, 80, 80]
+Cumulative time used till V cycle 50 : 17274.44660615921
+Training for V cycle: 51
+[64]
+[80]
+Cumulative time used till V cycle 51 : 17602.6207010746
+Training for V cycle: 52
+[64]
+[80]
+Cumulative time used till V cycle 52 : 17884.34855246544
+Training for V cycle: 53
+[64]
+[80]
+Cumulative time used till V cycle 53 : 18138.34470653534
+Training for V cycle: 54
+[64]
+[80]
+Cumulative time used till V cycle 54 : 18405.582107543945
+Training for V cycle: 55
+[64]
+[80]
+Cumulative time used till V cycle 55 : 18665.275650262833
+Training for V cycle: 56
+[64]
+[80]
+Cumulative time used till V cycle 56 : 18921.710389614105
+Training for V cycle: 57
+[64]
+[80]
+Cumulative time used till V cycle 57 : 19176.539892196655
+Training for V cycle: 58
+[64]
+[80]
+Cumulative time used till V cycle 58 : 19444.605818271637
+Training for V cycle: 59
+[64]
+[80]
+Cumulative time used till V cycle 59 : 19701.982306718826
+Training for V cycle: 60
+[64]
+[80]
+Cumulative time used till V cycle 60 : 19956.979912042618
+2.6.2
+2.6.0
