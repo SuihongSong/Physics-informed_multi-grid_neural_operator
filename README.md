@@ -1,4 +1,5 @@
-## Physics-informed multi-grid neural operator: theory and an application to porous flow simulation
+## Physics-informed multi-grid neural operator: 
+## theory and an application to porous flow simulation
 
 ![Teaser image](./2D-multiple time step example.jpg) 
 **Picture:** *Prediction of pressure maps after different time steps of water flowing in a 2D channlized porous media*
@@ -19,18 +20,18 @@ For any question, please contact [suihong@stanford.edu] or [songsuihong@126.com]
 
 ## This repository contains code notebooks, training/test dataset, and pretrained neural operator models of the three cases in the aforementioned paper:
 
-### ([1D flow case](./1DFlow/)):
+### [1D flow case](./1DFlow/):
 
 - [CodeNotebooks](./1DFlow/CodeNotebooks/): two notebooks (using python and tensorflow 2.x) for 1D porous flow using neural operators with and without multi-grid techniques.
 - [TestDataset](./1DFlow/TestDataset/): test permeability and pressure curves
 
-### ([2D flow with single time step case](./2DFlow_SingTime/)):
+### [2D flow with single time step case](./2DFlow_SingTime/):
 
 - [CodeNotebooks](./2DFlow_SingTime/CodeNotebooks/): one notebook (using python and tensorflow 2.x) for 2D porous flow with single time step using multi-grid neural operator.
 - [Dataset](./2DFlow_SingTime/Dataset/): (1) [2D channelized facies models](./2DFlow_SingTime/Dataset/2D_AllPro_Gslib_fromPetrel(version4).7z), (2) [test permeability maps and boundary pressures](./2DFlow_SingTime/Dataset/PremMaps_BoundPres_64x64/), (3) [test pressure maps](./2DFlow_SingTime/Dataset/SimulatedPressureMaps_400_200_30daysInterval_64x64/)
 - [Pre-trained neural operator model](./2DFlow_SingTime/TrainedOperatorModel): as neural networks of different grids in each V cycle.
 
-### ([2D flow with multiple time step case](./2DFlow_MultiTime/)):
+### [2D flow with multiple time step case](./2DFlow_MultiTime/):
 
 - [CodeNotebooks](./2DFlow_MultiTime/CodeNotebooks/): one notebook (using python and tensorflow 2.x) for 2D porous flow with multiple time steps using multi-grid neural operator.
 - [Dataset](./2DFlow_MultiTime/Dataset/): [2D channelized facies models](./2DFlow_SingTime/Dataset/2D_AllPro_Gslib_fromPetrel(version4).7z) and [test permeability maps and boundary pressures](./2DFlow_SingTime/Dataset/PremMaps_BoundPres_64x64/) are the same as in the previous 2D single time case; [test pressure maps](./2DFlow_MultiTime/Dataset/SimulatedPressureMaps_400_200_1to16days_1dayInterval_64x64/).
