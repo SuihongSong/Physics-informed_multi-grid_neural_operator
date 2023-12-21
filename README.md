@@ -1,5 +1,4 @@
-## Physics-informed multi-grid neural operator: 
-## theory and an application to porous flow simulation
+## Physics-informed multi-grid neural operator: theory and an application to porous flow simulation
 
 ![Teaser image](./2D-multiple time step example.jpg) 
 **Picture:** *Prediction of pressure maps after different time steps of water flowing in a 2D channlized porous media*
